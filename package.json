@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "jest --watchAll=false --noStackTrace",
     "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
