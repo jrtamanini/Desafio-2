@@ -11,7 +11,7 @@ module.exports = {
         usuario: {
             nome: 'Foo Bar',
             cpf: '00011122233',
-            data_nascimento: '2021-03-15',
+            data_nascimento: '2021-03-14',
             telefone: '71999998888',
             email: 'foo@bar.com',
             senha: '1234'
